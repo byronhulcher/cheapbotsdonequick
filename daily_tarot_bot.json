@@ -1,9 +1,8 @@
 {
-  "the-fool":[
-    "The Fool, representing #the-fool-value#. #the-fool-positivemeaning#.",
-    "The Fool, representing #the-fool-value#. #the-fool-positivemeaning#.",
-    "The Fool, representing #the-fool-value#. #the-fool-positivemeaning#.",
-    "The Fool, representing #the-fool-value#. #the-fool-positivemeaning#.",
+  "the-fool-positive":[
+    "The Fool, representing #the-fool-value#. #the-fool-positivemeaning#."
+  ],
+  "the-fool-negative":[
     "The Fool, reversed, representing #the-fool-value#. #the-fool-negativemeaning#."
   ],
   "the-fool-value":[
@@ -31,11 +30,10 @@
     "Failing to honor well-established traditions and limits",
     "Behaving inappropriately"
   ],
-  "the-magician":[
-    "The Magician, representing #the-magician-value#. #the-magician-positivemeaning#.",
-    "The Magician, representing #the-magician-value#. #the-magician-positivemeaning#.",
-    "The Magician, representing #the-magician-value#. #the-magician-positivemeaning#.",
-    "The Magician, representing #the-magician-value#. #the-magician-positivemeaning#.",
+  "the-magician-positive":[
+    "The Magician, representing #the-magician-value#. #the-magician-positivemeaning#."
+  ],
+  "the-magician-negative":[
     "The Magician, reversed, representing #the-magician-value#. #the-magician-negativemeaning#."
   ],
   "the-magician-value":[
@@ -59,11 +57,10 @@
     "Refusing to invest the time and effort needed to master your craft",
     "Taking shortcuts"
   ],
-  "the-high-priestess":[
-    "The High Priestess, representing #the-high-priestess-value#. #the-high-priestess-positivemeaning#.",
-    "The High Priestess, representing #the-high-priestess-value#. #the-high-priestess-positivemeaning#.",
-    "The High Priestess, representing #the-high-priestess-value#. #the-high-priestess-positivemeaning#.",
-    "The High Priestess, representing #the-high-priestess-value#. #the-high-priestess-positivemeaning#.",
+  "the-high-priestess-positive":[
+    "The High Priestess, representing #the-high-priestess-value#. #the-high-priestess-positivemeaning#."
+  ],
+  "the-high-priestess-negative":[
     "The High Priestess, reversed, representing #the-high-priestess-value#. #the-high-priestess-negativemeaning#."
   ],
   "the-high-priestess-value":[
@@ -89,11 +86,10 @@
     "Ignoring gut feelings",
     "Refusing to become involved, even when involvement is appropriate"
   ],
-  "the-empress":[
-    "The Empress, representing #the-empress-value#. #the-empress-positivemeaning#.",
-    "The Empress, representing #the-empress-value#. #the-empress-positivemeaning#.",
-    "The Empress, representing #the-empress-value#. #the-empress-positivemeaning#.",
-    "The Empress, representing #the-empress-value#. #the-empress-positivemeaning#.",
+  "the-empress-positive":[
+    "The Empress, representing #the-empress-value#. #the-empress-positivemeaning#."
+  ],
+  "the-empress-negative":[
     "The Empress, reversed, representing #the-empress-value#. #the-empress-negativemeaning#."
   ],
   "the-empress-value":[
@@ -120,11 +116,10 @@
     "Inhibiting productivity by obsessing on productivity",
     "Being overcome by addictive behavior"
   ],
-  "the-emperor":[
-    "The Emperor, representing #the-emperor-value#. #the-emperor-positivemeaning#.",
-    "The Emperor, representing #the-emperor-value#. #the-emperor-positivemeaning#.",
-    "The Emperor, representing #the-emperor-value#. #the-emperor-positivemeaning#.",
-    "The Emperor, representing #the-emperor-value#. #the-emperor-positivemeaning#.",
+  "the-emperor-positive":[
+    "The Emperor, representing #the-emperor-value#. #the-emperor-positivemeaning#."
+  ],
+  "the-emperor-negative":[
     "The Emperor, reversed, representing #the-emperor-value#. #the-emperor-negativemeaning#."
   ],
   "the-emperor-value":[
@@ -148,11 +143,10 @@
     "Assuming a dictatorial mindset",
     "Using overt force to achieve your goals and maintain order"
   ],
-  "the-hierophant":[
-    "The Hierophant, representing #the-hierophant-value#. #the-hierophant-positivemeaning#.",
-    "The Hierophant, representing #the-hierophant-value#. #the-hierophant-positivemeaning#.",
-    "The Hierophant, representing #the-hierophant-value#. #the-hierophant-positivemeaning#.",
-    "The Hierophant, representing #the-hierophant-value#. #the-hierophant-positivemeaning#.",
+  "the-hierophant-positive":[
+    "The Hierophant, representing #the-hierophant-value#. #the-hierophant-positivemeaning#."
+  ],
+  "the-hierophant-negative":[
     "The Hierophant, reversed, representing #the-hierophant-value#. #the-hierophant-negativemeaning#."
   ],
   "the-hierophant-value":[
@@ -178,11 +172,10 @@
     "Concealing wisdom",
     "Restricting access to spiritual truths or the gods"
   ],
-  "the-lovers":[
-    "The Lovers, representing #the-lovers-value#. #the-lovers-positivemeaning#.",
-    "The Lovers, representing #the-lovers-value#. #the-lovers-positivemeaning#.",
-    "The Lovers, representing #the-lovers-value#. #the-lovers-positivemeaning#.",
-    "The Lovers, representing #the-lovers-value#. #the-lovers-positivemeaning#.",
+  "the-lovers-positive":[
+    "The Lovers, representing #the-lovers-value#. #the-lovers-positivemeaning#."
+  ],
+  "the-lovers-negative":[
     "The Lovers, reversed, representing #the-lovers-value#. #the-lovers-negativemeaning#."
   ],
   "the-lovers-value":[
@@ -206,11 +199,10 @@
     "Working against the best interests of those who care about you",
     "Ill-informed decisions"
   ],
-  "the-chariot":[
-    "The Chariot, representing #the-chariot-value#. #the-chariot-positivemeaning#.",
-    "The Chariot, representing #the-chariot-value#. #the-chariot-positivemeaning#.",
-    "The Chariot, representing #the-chariot-value#. #the-chariot-positivemeaning#.",
-    "The Chariot, representing #the-chariot-value#. #the-chariot-positivemeaning#.",
+  "the-chariot-positive":[
+    "The Chariot, representing #the-chariot-value#. #the-chariot-positivemeaning#."
+  ],
+  "the-chariot-negative":[
     "The Chariot, reversed, representing #the-chariot-value#. #the-chariot-negativemeaning#."
   ],
   "the-chariot-value":[
@@ -233,11 +225,10 @@
     "Focusing more on past successes than future opportunities",
     "Failing to rein in impulsive behavior"
   ],
-  "strength":[
-    "Strength, representing #strength-value#. #strength-positivemeaning#.",
-    "Strength, representing #strength-value#. #strength-positivemeaning#.",
-    "Strength, representing #strength-value#. #strength-positivemeaning#.",
-    "Strength, representing #strength-value#. #strength-positivemeaning#.",
+  "strength-positive":[
+    "Strength, representing #strength-value#. #strength-positivemeaning#."
+  ],
+  "strength-negative":[
     "Strength, reversed, representing #strength-value#. #strength-negativemeaning#."
   ],
   "strength-value":[
@@ -259,11 +250,10 @@
     "Allowing your instincts to tame and conquer you",
     "Failing to take a stand when necessary"
   ],
-  "the-hermit":[
-    "The Hermit, representing #the-hermit-value#. #the-hermit-positivemeaning#.",
-    "The Hermit, representing #the-hermit-value#. #the-hermit-positivemeaning#.",
-    "The Hermit, representing #the-hermit-value#. #the-hermit-positivemeaning#.",
-    "The Hermit, representing #the-hermit-value#. #the-hermit-positivemeaning#.",
+  "the-hermit-positive":[
+    "The Hermit, representing #the-hermit-value#. #the-hermit-positivemeaning#."
+  ],
+  "the-hermit-negative":[
     "The Hermit, reversed, representing #the-hermit-value#. #the-hermit-negativemeaning#."
   ],
   "the-hermit-value":[
@@ -286,11 +276,10 @@
     "Inflating claims of expertise",
     "Hiding your skills and talents out of fear of unworthiness"
   ],
-  "the-wheel":[
-    "The Wheel, representing #the-wheel-value#. #the-wheel-positivemeaning#.",
-    "The Wheel, representing #the-wheel-value#. #the-wheel-positivemeaning#.",
-    "The Wheel, representing #the-wheel-value#. #the-wheel-positivemeaning#.",
-    "The Wheel, representing #the-wheel-value#. #the-wheel-positivemeaning#.",
+  "the-wheel-positive":[
+    "The Wheel, representing #the-wheel-value#. #the-wheel-positivemeaning#."
+  ],
+  "the-wheel-negative":[
     "The Wheel, reversed, representing #the-wheel-value#. #the-wheel-negativemeaning#."
   ],
   "the-wheel-value":[
@@ -314,11 +303,10 @@
     "Taking a fatalistic approach to life",
     "Fighting the natural course of events"
   ],
-  "justice":[
-    "Justice, representing #justice-value#. #justice-positivemeaning#.",
-    "Justice, representing #justice-value#. #justice-positivemeaning#.",
-    "Justice, representing #justice-value#. #justice-positivemeaning#.",
-    "Justice, representing #justice-value#. #justice-positivemeaning#.",
+  "justice-positive":[
+    "Justice, representing #justice-value#. #justice-positivemeaning#."
+  ],
+  "justice-negative":[
     "Justice, reversed, representing #justice-value#. #justice-negativemeaning#."
   ],
   "justice-value":[
@@ -342,11 +330,10 @@
     "Confusing snap decisions with timely action",
     "Playing favorites"
   ],
-  "the-hanged-man":[
-    "The Hanged Man, representing #the-hanged-man-value#. #the-hanged-man-positivemeaning#.",
-    "The Hanged Man, representing #the-hanged-man-value#. #the-hanged-man-positivemeaning#.",
-    "The Hanged Man, representing #the-hanged-man-value#. #the-hanged-man-positivemeaning#.",
-    "The Hanged Man, representing #the-hanged-man-value#. #the-hanged-man-positivemeaning#.",
+  "the-hanged-man-positive":[
+    "The Hanged Man, representing #the-hanged-man-value#. #the-hanged-man-positivemeaning#."
+  ],
+  "the-hanged-man-negative":[
     "The Hanged Man, reversed, representing #the-hanged-man-value#. #the-hanged-man-negativemeaning#."
   ],
   "the-hanged-man-value":[
@@ -370,11 +357,10 @@
     "Blaming others",
     "Profiting at the expense of others"
   ],
-  "death":[
-    "Death, representing #death-value#. #death-positivemeaning#.",
-    "Death, representing #death-value#. #death-positivemeaning#.",
-    "Death, representing #death-value#. #death-positivemeaning#.",
-    "Death, representing #death-value#. #death-positivemeaning#.",
+  "death-positive":[
+    "Death, representing #death-value#. #death-positivemeaning#."
+  ],
+  "death-negative":[
     "Death, reversed, representing #death-value#. #death-negativemeaning#."
   ],
   "death-value":[
@@ -398,11 +384,10 @@
     "Insisting that everything and everyone should stay the same forever",
     "Failing to take good care of yourself"
   ],
-  "temperance":[
-    "Temperance, representing #temperance-value#. #temperance-positivemeaning#.",
-    "Temperance, representing #temperance-value#. #temperance-positivemeaning#.",
-    "Temperance, representing #temperance-value#. #temperance-positivemeaning#.",
-    "Temperance, representing #temperance-value#. #temperance-positivemeaning#.",
+  "temperance-positive":[
+    "Temperance, representing #temperance-value#. #temperance-positivemeaning#."
+  ],
+  "temperance-negative":[
     "Temperance, reversed, representing #temperance-value#. #temperance-negativemeaning#."
   ],
   "temperance-value":[
@@ -429,11 +414,10 @@
     "Tearing something or someone apart",
     "Breaking alliances"
   ],
-  "the-devil":[
-    "The Devil, representing #the-devil-value#. #the-devil-positivemeaning#.",
-    "The Devil, representing #the-devil-value#. #the-devil-positivemeaning#.",
-    "The Devil, representing #the-devil-value#. #the-devil-positivemeaning#.",
-    "The Devil, representing #the-devil-value#. #the-devil-positivemeaning#.",
+  "the-devil-positive":[
+    "The Devil, representing #the-devil-value#. #the-devil-positivemeaning#."
+  ],
+  "the-devil-negative":[
     "The Devil, reversed, representing #the-devil-value#. #the-devil-negativemeaning#."
   ],
   "the-devil-value":[
@@ -458,11 +442,10 @@
     "Being selfish",
     "Attributing your own dark impulses to outside forces or other people"
   ],
-  "the-tower":[
-    "The Tower, representing #the-tower-value#. #the-tower-positivemeaning#.",
-    "The Tower, representing #the-tower-value#. #the-tower-positivemeaning#.",
-    "The Tower, representing #the-tower-value#. #the-tower-positivemeaning#.",
-    "The Tower, representing #the-tower-value#. #the-tower-positivemeaning#.",
+  "the-tower-positive":[
+    "The Tower, representing #the-tower-value#. #the-tower-positivemeaning#."
+  ],
+  "the-tower-negative":[
     "The Tower, reversed, representing #the-tower-value#. #the-tower-negativemeaning#."
   ],
   "the-tower-value":[
@@ -487,11 +470,10 @@
     "Ignoring guidance from a higher power",
     "Maliciously engaging in destructive behavior"
   ],
-  "the-star":[
-    "The Star, representing #the-star-value#. #the-star-positivemeaning#.",
-    "The Star, representing #the-star-value#. #the-star-positivemeaning#.",
-    "The Star, representing #the-star-value#. #the-star-positivemeaning#.",
-    "The Star, representing #the-star-value#. #the-star-positivemeaning#.",
+  "the-star-positive":[
+    "The Star, representing #the-star-value#. #the-star-positivemeaning#."
+  ],
+  "the-star-negative":[
     "The Star, reversed, representing #the-star-value#. #the-star-negativemeaning#."
   ],
   "the-star-value":[
@@ -518,11 +500,10 @@
     "Preferring illusion to reality",
     "Spreading pessimism and stinginess of spirit"
   ],
-  "the-moon":[
-    "The Moon, representing #the-moon-value#. #the-moon-positivemeaning#.",
-    "The Moon, representing #the-moon-value#. #the-moon-positivemeaning#.",
-    "The Moon, representing #the-moon-value#. #the-moon-positivemeaning#.",
-    "The Moon, representing #the-moon-value#. #the-moon-positivemeaning#.",
+  "the-moon-positive":[
+    "The Moon, representing #the-moon-value#. #the-moon-positivemeaning#."
+  ],
+  "the-moon-negative":[
     "The Moon, reversed, representing #the-moon-value#. #the-moon-negativemeaning#."
   ],
   "the-moon-value":[
@@ -546,11 +527,10 @@
     "Adopting a ruthlessly logical mindset",
     "Failing to appreciate life's mysteries"
   ],
-  "the-sun":[
-    "The Sun, representing #the-sun-value#. #the-sun-positivemeaning#.",
-    "The Sun, representing #the-sun-value#. #the-sun-positivemeaning#.",
-    "The Sun, representing #the-sun-value#. #the-sun-positivemeaning#.",
-    "The Sun, representing #the-sun-value#. #the-sun-positivemeaning#.",
+  "the-sun-positive":[
+    "The Sun, representing #the-sun-value#. #the-sun-positivemeaning#."
+  ],
+  "the-sun-negative":[
     "The Sun, reversed, representing #the-sun-value#. #the-sun-negativemeaning#."
   ],
   "the-sun-value":[
@@ -574,11 +554,10 @@
     "Exerting yourself to the point of exhaustion",
     "Overstating your abilities or misrepresenting your achievements"
   ],
-  "judgement":[
-    "Judgement, representing #judgement-value#. #judgement-positivemeaning#.",
-    "Judgement, representing #judgement-value#. #judgement-positivemeaning#.",
-    "Judgement, representing #judgement-value#. #judgement-positivemeaning#.",
-    "Judgement, representing #judgement-value#. #judgement-positivemeaning#.",
+  "judgement-positive":[
+    "Judgement, representing #judgement-value#. #judgement-positivemeaning#."
+  ],
+  "judgement-negative":[
     "Judgement, reversed, representing #judgement-value#. #judgement-negativemeaning#."
   ],
   "judgement-value":[
@@ -603,11 +582,10 @@
     "Failing to prepare for an examination you know is coming",
     "Rejecting an opportunity to reinvent yourself"
   ],
-  "the-world":[
-    "The World, representing #the-world-value#. #the-world-positivemeaning#.",
-    "The World, representing #the-world-value#. #the-world-positivemeaning#.",
-    "The World, representing #the-world-value#. #the-world-positivemeaning#.",
-    "The World, representing #the-world-value#. #the-world-positivemeaning#.",
+  "the-world-positive":[
+    "The World, representing #the-world-value#. #the-world-positivemeaning#."
+  ],
+  "the-world-negative":[
     "The World, reversed, representing #the-world-value#. #the-world-negativemeaning#."
   ],
   "the-world-value":[
@@ -631,11 +609,10 @@
     "Believing that everything that exists can be touched, counted, or measured",
     "Failing to see the divine reflected in those around you"
   ],
-  "ace-of-wands":[
-    "Ace of Wands, representing #ace-of-wands-value#. #ace-of-wands-positivemeaning#.",
-    "Ace of Wands, representing #ace-of-wands-value#. #ace-of-wands-positivemeaning#.",
-    "Ace of Wands, representing #ace-of-wands-value#. #ace-of-wands-positivemeaning#.",
-    "Ace of Wands, representing #ace-of-wands-value#. #ace-of-wands-positivemeaning#.",
+  "ace-of-wands-positive":[
+    "Ace of Wands, representing #ace-of-wands-value#. #ace-of-wands-positivemeaning#."
+  ],
+  "ace-of-wands-negative":[
     "Ace of Wands, reversed, representing #ace-of-wands-value#. #ace-of-wands-negativemeaning#."
   ],
   "ace-of-wands-value":[
@@ -662,11 +639,10 @@
     "Setting inappropriate goals",
     "Failing to take a stand"
   ],
-  "two-of-wands":[
-    "Two of Wands, representing #two-of-wands-value#. #two-of-wands-positivemeaning#.",
-    "Two of Wands, representing #two-of-wands-value#. #two-of-wands-positivemeaning#.",
-    "Two of Wands, representing #two-of-wands-value#. #two-of-wands-positivemeaning#.",
-    "Two of Wands, representing #two-of-wands-value#. #two-of-wands-positivemeaning#.",
+  "two-of-wands-positive":[
+    "Two of Wands, representing #two-of-wands-value#. #two-of-wands-positivemeaning#."
+  ],
+  "two-of-wands-negative":[
     "Two of Wands, reversed, representing #two-of-wands-value#. #two-of-wands-negativemeaning#."
   ],
   "two-of-wands-value":[
@@ -690,11 +666,10 @@
     "Refusing to change your goal even when pursuing it no longer makes sense",
     "Disregarding the input of others"
   ],
-  "three-of-wands":[
-    "Three of Wands, representing #three-of-wands-value#. #three-of-wands-positivemeaning#.",
-    "Three of Wands, representing #three-of-wands-value#. #three-of-wands-positivemeaning#.",
-    "Three of Wands, representing #three-of-wands-value#. #three-of-wands-positivemeaning#.",
-    "Three of Wands, representing #three-of-wands-value#. #three-of-wands-positivemeaning#.",
+  "three-of-wands-positive":[
+    "Three of Wands, representing #three-of-wands-value#. #three-of-wands-positivemeaning#."
+  ],
+  "three-of-wands-negative":[
     "Three of Wands, reversed, representing #three-of-wands-value#. #three-of-wands-negativemeaning#."
   ],
   "three-of-wands-value":[
@@ -718,11 +693,10 @@
     "Rejecting an opportunity to try something new",
     "Failing to finish what you start"
   ],
-  "four-of-wands":[
-    "Four of Wands, representing #four-of-wands-value#. #four-of-wands-positivemeaning#.",
-    "Four of Wands, representing #four-of-wands-value#. #four-of-wands-positivemeaning#.",
-    "Four of Wands, representing #four-of-wands-value#. #four-of-wands-positivemeaning#.",
-    "Four of Wands, representing #four-of-wands-value#. #four-of-wands-positivemeaning#.",
+  "four-of-wands-positive":[
+    "Four of Wands, representing #four-of-wands-value#. #four-of-wands-positivemeaning#."
+  ],
+  "four-of-wands-negative":[
     "Four of Wands, reversed, representing #four-of-wands-value#. #four-of-wands-negativemeaning#."
   ],
   "four-of-wands-value":[
@@ -746,11 +720,10 @@
     "Allowing sour grapes to poison your moment in the sun",
     "Refusing to do your part"
   ],
-  "five-of-wands":[
-    "Five of Wands, representing #five-of-wands-value#. #five-of-wands-positivemeaning#.",
-    "Five of Wands, representing #five-of-wands-value#. #five-of-wands-positivemeaning#.",
-    "Five of Wands, representing #five-of-wands-value#. #five-of-wands-positivemeaning#.",
-    "Five of Wands, representing #five-of-wands-value#. #five-of-wands-positivemeaning#.",
+  "five-of-wands-positive":[
+    "Five of Wands, representing #five-of-wands-value#. #five-of-wands-positivemeaning#."
+  ],
+  "five-of-wands-negative":[
     "Five of Wands, reversed, representing #five-of-wands-value#. #five-of-wands-negativemeaning#."
   ],
   "five-of-wands-value":[
@@ -773,11 +746,10 @@
     "Baiting people with barbed remarks",
     "Disrupting progress with an endless stream of pointless objections"
   ],
-  "six-of-wands":[
-    "Six of Wands, representing #six-of-wands-value#. #six-of-wands-positivemeaning#.",
-    "Six of Wands, representing #six-of-wands-value#. #six-of-wands-positivemeaning#.",
-    "Six of Wands, representing #six-of-wands-value#. #six-of-wands-positivemeaning#.",
-    "Six of Wands, representing #six-of-wands-value#. #six-of-wands-positivemeaning#.",
+  "six-of-wands-positive":[
+    "Six of Wands, representing #six-of-wands-value#. #six-of-wands-positivemeaning#."
+  ],
+  "six-of-wands-negative":[
     "Six of Wands, reversed, representing #six-of-wands-value#. #six-of-wands-negativemeaning#."
   ],
   "six-of-wands-value":[
@@ -804,11 +776,10 @@
     "Giving or receiving insincere praise",
     "Envying the achievements of others"
   ],
-  "seven-of-wands":[
-    "Seven of Wands, representing #seven-of-wands-value#. #seven-of-wands-positivemeaning#.",
-    "Seven of Wands, representing #seven-of-wands-value#. #seven-of-wands-positivemeaning#.",
-    "Seven of Wands, representing #seven-of-wands-value#. #seven-of-wands-positivemeaning#.",
-    "Seven of Wands, representing #seven-of-wands-value#. #seven-of-wands-positivemeaning#.",
+  "seven-of-wands-positive":[
+    "Seven of Wands, representing #seven-of-wands-value#. #seven-of-wands-positivemeaning#."
+  ],
+  "seven-of-wands-negative":[
     "Seven of Wands, reversed, representing #seven-of-wands-value#. #seven-of-wands-negativemeaning#."
   ],
   "seven-of-wands-value":[
@@ -831,11 +802,10 @@
     "Responding to constructive criticism with defensiveness",
     "Refusing to stand up for yourself and your beliefs"
   ],
-  "eight-of-wands":[
-    "Eight of Wands, representing #eight-of-wands-value#. #eight-of-wands-positivemeaning#.",
-    "Eight of Wands, representing #eight-of-wands-value#. #eight-of-wands-positivemeaning#.",
-    "Eight of Wands, representing #eight-of-wands-value#. #eight-of-wands-positivemeaning#.",
-    "Eight of Wands, representing #eight-of-wands-value#. #eight-of-wands-positivemeaning#.",
+  "eight-of-wands-positive":[
+    "Eight of Wands, representing #eight-of-wands-value#. #eight-of-wands-positivemeaning#."
+  ],
+  "eight-of-wands-negative":[
     "Eight of Wands, reversed, representing #eight-of-wands-value#. #eight-of-wands-negativemeaning#."
   ],
   "eight-of-wands-value":[
@@ -861,11 +831,10 @@
     "Rushing others",
     "Refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate"
   ],
-  "nine-of-wands":[
-    "Nine of Wands, representing #nine-of-wands-value#. #nine-of-wands-positivemeaning#.",
-    "Nine of Wands, representing #nine-of-wands-value#. #nine-of-wands-positivemeaning#.",
-    "Nine of Wands, representing #nine-of-wands-value#. #nine-of-wands-positivemeaning#.",
-    "Nine of Wands, representing #nine-of-wands-value#. #nine-of-wands-positivemeaning#.",
+  "nine-of-wands-positive":[
+    "Nine of Wands, representing #nine-of-wands-value#. #nine-of-wands-positivemeaning#."
+  ],
+  "nine-of-wands-negative":[
     "Nine of Wands, reversed, representing #nine-of-wands-value#. #nine-of-wands-negativemeaning#."
   ],
   "nine-of-wands-value":[
@@ -893,11 +862,10 @@
     "Refusing to let something go that needs to be released",
     "Beating a dead horse"
   ],
-  "ten-of-wands":[
-    "Ten of Wands, representing #ten-of-wands-value#. #ten-of-wands-positivemeaning#.",
-    "Ten of Wands, representing #ten-of-wands-value#. #ten-of-wands-positivemeaning#.",
-    "Ten of Wands, representing #ten-of-wands-value#. #ten-of-wands-positivemeaning#.",
-    "Ten of Wands, representing #ten-of-wands-value#. #ten-of-wands-positivemeaning#.",
+  "ten-of-wands-positive":[
+    "Ten of Wands, representing #ten-of-wands-value#. #ten-of-wands-positivemeaning#."
+  ],
+  "ten-of-wands-negative":[
     "Ten of Wands, reversed, representing #ten-of-wands-value#. #ten-of-wands-negativemeaning#."
   ],
   "ten-of-wands-value":[
@@ -920,11 +888,10 @@
     "Shielding others from facing the consequences of their own poor judgment",
     "Over-extending yourself on a regular basis"
   ],
-  "page-of-wands":[
-    "Page of Wands, representing #page-of-wands-value#. #page-of-wands-positivemeaning#.",
-    "Page of Wands, representing #page-of-wands-value#. #page-of-wands-positivemeaning#.",
-    "Page of Wands, representing #page-of-wands-value#. #page-of-wands-positivemeaning#.",
-    "Page of Wands, representing #page-of-wands-value#. #page-of-wands-positivemeaning#.",
+  "page-of-wands-positive":[
+    "Page of Wands, representing #page-of-wands-value#. #page-of-wands-positivemeaning#."
+  ],
+  "page-of-wands-negative":[
     "Page of Wands, reversed, representing #page-of-wands-value#. #page-of-wands-negativemeaning#."
   ],
   "page-of-wands-value":[
@@ -948,11 +915,10 @@
     "Habitually discounting input or feedback from others",
     "Being so eager to \"do it yourself\" that you hinder your own progress"
   ],
-  "knight-of-wands":[
-    "Knight of Wands, representing #knight-of-wands-value#. #knight-of-wands-positivemeaning#.",
-    "Knight of Wands, representing #knight-of-wands-value#. #knight-of-wands-positivemeaning#.",
-    "Knight of Wands, representing #knight-of-wands-value#. #knight-of-wands-positivemeaning#.",
-    "Knight of Wands, representing #knight-of-wands-value#. #knight-of-wands-positivemeaning#.",
+  "knight-of-wands-positive":[
+    "Knight of Wands, representing #knight-of-wands-value#. #knight-of-wands-positivemeaning#."
+  ],
+  "knight-of-wands-negative":[
     "Knight of Wands, reversed, representing #knight-of-wands-value#. #knight-of-wands-negativemeaning#."
   ],
   "knight-of-wands-value":[
@@ -978,11 +944,10 @@
     "Forcing your leadership or ideology on others",
     "Beginning many projects without finishing any"
   ],
-  "queen-of-wands":[
-    "Queen of Wands, representing #queen-of-wands-value#. #queen-of-wands-positivemeaning#.",
-    "Queen of Wands, representing #queen-of-wands-value#. #queen-of-wands-positivemeaning#.",
-    "Queen of Wands, representing #queen-of-wands-value#. #queen-of-wands-positivemeaning#.",
-    "Queen of Wands, representing #queen-of-wands-value#. #queen-of-wands-positivemeaning#.",
+  "queen-of-wands-positive":[
+    "Queen of Wands, representing #queen-of-wands-value#. #queen-of-wands-positivemeaning#."
+  ],
+  "queen-of-wands-negative":[
     "Queen of Wands, reversed, representing #queen-of-wands-value#. #queen-of-wands-negativemeaning#."
   ],
   "queen-of-wands-value":[
@@ -1004,11 +969,10 @@
     "Calling attention to yourself with negative or unhealthy behaviors",
     "Disrupting group activities as a means of feeding your own ego"
   ],
-  "king-of-wands":[
-    "King of Wands, representing #king-of-wands-value#. #king-of-wands-positivemeaning#.",
-    "King of Wands, representing #king-of-wands-value#. #king-of-wands-positivemeaning#.",
-    "King of Wands, representing #king-of-wands-value#. #king-of-wands-positivemeaning#.",
-    "King of Wands, representing #king-of-wands-value#. #king-of-wands-positivemeaning#.",
+  "king-of-wands-positive":[
+    "King of Wands, representing #king-of-wands-value#. #king-of-wands-positivemeaning#."
+  ],
+  "king-of-wands-negative":[
     "King of Wands, reversed, representing #king-of-wands-value#. #king-of-wands-negativemeaning#."
   ],
   "king-of-wands-value":[
@@ -1030,11 +994,10 @@
     "Boasting about achievements without putting your expertise to practical use",
     "Lording it over others"
   ],
-  "ace-of-cups":[
-    "Ace of Cups, representing #ace-of-cups-value#. #ace-of-cups-positivemeaning#.",
-    "Ace of Cups, representing #ace-of-cups-value#. #ace-of-cups-positivemeaning#.",
-    "Ace of Cups, representing #ace-of-cups-value#. #ace-of-cups-positivemeaning#.",
-    "Ace of Cups, representing #ace-of-cups-value#. #ace-of-cups-positivemeaning#.",
+  "ace-of-cups-positive":[
+    "Ace of Cups, representing #ace-of-cups-value#. #ace-of-cups-positivemeaning#."
+  ],
+  "ace-of-cups-negative":[
     "Ace of Cups, reversed, representing #ace-of-cups-value#. #ace-of-cups-negativemeaning#."
   ],
   "ace-of-cups-value":[
@@ -1059,11 +1022,10 @@
     "Becoming a puppet of your own emotions",
     "Indulging in hysteria or obsession"
   ],
-  "two-of-cups":[
-    "Two of Cups, representing #two-of-cups-value#. #two-of-cups-positivemeaning#.",
-    "Two of Cups, representing #two-of-cups-value#. #two-of-cups-positivemeaning#.",
-    "Two of Cups, representing #two-of-cups-value#. #two-of-cups-positivemeaning#.",
-    "Two of Cups, representing #two-of-cups-value#. #two-of-cups-positivemeaning#.",
+  "two-of-cups-positive":[
+    "Two of Cups, representing #two-of-cups-value#. #two-of-cups-positivemeaning#."
+  ],
+  "two-of-cups-negative":[
     "Two of Cups, reversed, representing #two-of-cups-value#. #two-of-cups-negativemeaning#."
   ],
   "two-of-cups-value":[
@@ -1090,11 +1052,10 @@
     "Despairing over finding \"The One\"",
     "Deceiving yourself about your true orientation"
   ],
-  "three-of-cups":[
-    "Three of Cups, representing #three-of-cups-value#. #three-of-cups-positivemeaning#.",
-    "Three of Cups, representing #three-of-cups-value#. #three-of-cups-positivemeaning#.",
-    "Three of Cups, representing #three-of-cups-value#. #three-of-cups-positivemeaning#.",
-    "Three of Cups, representing #three-of-cups-value#. #three-of-cups-positivemeaning#.",
+  "three-of-cups-positive":[
+    "Three of Cups, representing #three-of-cups-value#. #three-of-cups-positivemeaning#."
+  ],
+  "three-of-cups-negative":[
     "Three of Cups, reversed, representing #three-of-cups-value#. #three-of-cups-negativemeaning#."
   ],
   "three-of-cups-value":[
@@ -1117,11 +1078,10 @@
     "Demanding unreasonable support from friends or family",
     "Partying to a dangerous or unhealthy extent"
   ],
-  "four-of-cups":[
-    "Four of Cups, representing #four-of-cups-value#. #four-of-cups-positivemeaning#.",
-    "Four of Cups, representing #four-of-cups-value#. #four-of-cups-positivemeaning#.",
-    "Four of Cups, representing #four-of-cups-value#. #four-of-cups-positivemeaning#.",
-    "Four of Cups, representing #four-of-cups-value#. #four-of-cups-positivemeaning#.",
+  "four-of-cups-positive":[
+    "Four of Cups, representing #four-of-cups-value#. #four-of-cups-positivemeaning#."
+  ],
+  "four-of-cups-negative":[
     "Four of Cups, reversed, representing #four-of-cups-value#. #four-of-cups-negativemeaning#."
   ],
   "four-of-cups-value":[
@@ -1146,11 +1106,10 @@
     "Spurning inspiration",
     "Feeling everything should stay \"just like it is!\""
   ],
-  "five-of-cups":[
-    "Five of Cups, representing #five-of-cups-value#. #five-of-cups-positivemeaning#.",
-    "Five of Cups, representing #five-of-cups-value#. #five-of-cups-positivemeaning#.",
-    "Five of Cups, representing #five-of-cups-value#. #five-of-cups-positivemeaning#.",
-    "Five of Cups, representing #five-of-cups-value#. #five-of-cups-positivemeaning#.",
+  "five-of-cups-positive":[
+    "Five of Cups, representing #five-of-cups-value#. #five-of-cups-positivemeaning#."
+  ],
+  "five-of-cups-negative":[
     "Five of Cups, reversed, representing #five-of-cups-value#. #five-of-cups-negativemeaning#."
   ],
   "five-of-cups-value":[
@@ -1178,11 +1137,10 @@
     "Beating yourself up over past mistakes",
     "Allowing fear of failure to limit your efforts"
   ],
-  "six-of-cups":[
-    "Six of Cups, representing #six-of-cups-value#. #six-of-cups-positivemeaning#.",
-    "Six of Cups, representing #six-of-cups-value#. #six-of-cups-positivemeaning#.",
-    "Six of Cups, representing #six-of-cups-value#. #six-of-cups-positivemeaning#.",
-    "Six of Cups, representing #six-of-cups-value#. #six-of-cups-positivemeaning#.",
+  "six-of-cups-positive":[
+    "Six of Cups, representing #six-of-cups-value#. #six-of-cups-positivemeaning#."
+  ],
+  "six-of-cups-negative":[
     "Six of Cups, reversed, representing #six-of-cups-value#. #six-of-cups-negativemeaning#."
   ],
   "six-of-cups-value":[
@@ -1207,11 +1165,10 @@
     "Profiteering in times of distress",
     "Refusing to share a burden"
   ],
-  "seven-of-cups":[
-    "Seven of Cups, representing #seven-of-cups-value#. #seven-of-cups-positivemeaning#.",
-    "Seven of Cups, representing #seven-of-cups-value#. #seven-of-cups-positivemeaning#.",
-    "Seven of Cups, representing #seven-of-cups-value#. #seven-of-cups-positivemeaning#.",
-    "Seven of Cups, representing #seven-of-cups-value#. #seven-of-cups-positivemeaning#.",
+  "seven-of-cups-positive":[
+    "Seven of Cups, representing #seven-of-cups-value#. #seven-of-cups-positivemeaning#."
+  ],
+  "seven-of-cups-negative":[
     "Seven of Cups, reversed, representing #seven-of-cups-value#. #seven-of-cups-negativemeaning#."
   ],
   "seven-of-cups-value":[
@@ -1234,11 +1191,10 @@
     "Failing to envision the possible repercussions of your choices",
     "Being controlled by fear"
   ],
-  "eight-of-cups":[
-    "Eight of Cups, representing #eight-of-cups-value#. #eight-of-cups-positivemeaning#.",
-    "Eight of Cups, representing #eight-of-cups-value#. #eight-of-cups-positivemeaning#.",
-    "Eight of Cups, representing #eight-of-cups-value#. #eight-of-cups-positivemeaning#.",
-    "Eight of Cups, representing #eight-of-cups-value#. #eight-of-cups-positivemeaning#.",
+  "eight-of-cups-positive":[
+    "Eight of Cups, representing #eight-of-cups-value#. #eight-of-cups-positivemeaning#."
+  ],
+  "eight-of-cups-negative":[
     "Eight of Cups, reversed, representing #eight-of-cups-value#. #eight-of-cups-negativemeaning#."
   ],
   "eight-of-cups-value":[
@@ -1267,11 +1223,10 @@
     "Harping on past mistakes and disappointments",
     "Threatening to quit as a strategy to get your way"
   ],
-  "nine-of-cups":[
-    "Nine of Cups, representing #nine-of-cups-value#. #nine-of-cups-positivemeaning#.",
-    "Nine of Cups, representing #nine-of-cups-value#. #nine-of-cups-positivemeaning#.",
-    "Nine of Cups, representing #nine-of-cups-value#. #nine-of-cups-positivemeaning#.",
-    "Nine of Cups, representing #nine-of-cups-value#. #nine-of-cups-positivemeaning#.",
+  "nine-of-cups-positive":[
+    "Nine of Cups, representing #nine-of-cups-value#. #nine-of-cups-positivemeaning#."
+  ],
+  "nine-of-cups-negative":[
     "Nine of Cups, reversed, representing #nine-of-cups-value#. #nine-of-cups-negativemeaning#."
   ],
   "nine-of-cups-value":[
@@ -1297,11 +1252,10 @@
     "Claiming achievements or skills you do not possess",
     "Never being satisfied, no matter how much you have"
   ],
-  "ten-of-cups":[
-    "Ten of Cups, representing #ten-of-cups-value#. #ten-of-cups-positivemeaning#.",
-    "Ten of Cups, representing #ten-of-cups-value#. #ten-of-cups-positivemeaning#.",
-    "Ten of Cups, representing #ten-of-cups-value#. #ten-of-cups-positivemeaning#.",
-    "Ten of Cups, representing #ten-of-cups-value#. #ten-of-cups-positivemeaning#.",
+  "ten-of-cups-positive":[
+    "Ten of Cups, representing #ten-of-cups-value#. #ten-of-cups-positivemeaning#."
+  ],
+  "ten-of-cups-negative":[
     "Ten of Cups, reversed, representing #ten-of-cups-value#. #ten-of-cups-negativemeaning#."
   ],
   "ten-of-cups-value":[
@@ -1323,11 +1277,10 @@
     "Feeling overwhelmed",
     "Envying the achievements and happiness of others"
   ],
-  "page-of-cups":[
-    "Page of Cups, representing #page-of-cups-value#. #page-of-cups-positivemeaning#.",
-    "Page of Cups, representing #page-of-cups-value#. #page-of-cups-positivemeaning#.",
-    "Page of Cups, representing #page-of-cups-value#. #page-of-cups-positivemeaning#.",
-    "Page of Cups, representing #page-of-cups-value#. #page-of-cups-positivemeaning#.",
+  "page-of-cups-positive":[
+    "Page of Cups, representing #page-of-cups-value#. #page-of-cups-positivemeaning#."
+  ],
+  "page-of-cups-negative":[
     "Page of Cups, reversed, representing #page-of-cups-value#. #page-of-cups-negativemeaning#."
   ],
   "page-of-cups-value":[
@@ -1353,11 +1306,10 @@
     "Indulging in overly-sweet sentimentality",
     "Pretending to more romantic or spiritual experience than you possess"
   ],
-  "knight-of-cups":[
-    "Knight of Cups, representing #knight-of-cups-value#. #knight-of-cups-positivemeaning#.",
-    "Knight of Cups, representing #knight-of-cups-value#. #knight-of-cups-positivemeaning#.",
-    "Knight of Cups, representing #knight-of-cups-value#. #knight-of-cups-positivemeaning#.",
-    "Knight of Cups, representing #knight-of-cups-value#. #knight-of-cups-positivemeaning#.",
+  "knight-of-cups-positive":[
+    "Knight of Cups, representing #knight-of-cups-value#. #knight-of-cups-positivemeaning#."
+  ],
+  "knight-of-cups-negative":[
     "Knight of Cups, reversed, representing #knight-of-cups-value#. #knight-of-cups-negativemeaning#."
   ],
   "knight-of-cups-value":[
@@ -1381,11 +1333,10 @@
     "Giving in to jealousy, confrontation, and peer pressure",
     "Hiding or ignoring intuitive insights"
   ],
-  "queen-of-cups":[
-    "Queen of Cups, representing #queen-of-cups-value#. #queen-of-cups-positivemeaning#.",
-    "Queen of Cups, representing #queen-of-cups-value#. #queen-of-cups-positivemeaning#.",
-    "Queen of Cups, representing #queen-of-cups-value#. #queen-of-cups-positivemeaning#.",
-    "Queen of Cups, representing #queen-of-cups-value#. #queen-of-cups-positivemeaning#.",
+  "queen-of-cups-positive":[
+    "Queen of Cups, representing #queen-of-cups-value#. #queen-of-cups-positivemeaning#."
+  ],
+  "queen-of-cups-negative":[
     "Queen of Cups, reversed, representing #queen-of-cups-value#. #queen-of-cups-negativemeaning#."
   ],
   "queen-of-cups-value":[
@@ -1409,11 +1360,10 @@
     "Using psychic abilities to wield covert influence",
     "Wallowing in emotionalism, sentiment, or self-pity"
   ],
-  "king-of-cups":[
-    "King of Cups, representing #king-of-cups-value#. #king-of-cups-positivemeaning#.",
-    "King of Cups, representing #king-of-cups-value#. #king-of-cups-positivemeaning#.",
-    "King of Cups, representing #king-of-cups-value#. #king-of-cups-positivemeaning#.",
-    "King of Cups, representing #king-of-cups-value#. #king-of-cups-positivemeaning#.",
+  "king-of-cups-positive":[
+    "King of Cups, representing #king-of-cups-value#. #king-of-cups-positivemeaning#."
+  ],
+  "king-of-cups-negative":[
     "King of Cups, reversed, representing #king-of-cups-value#. #king-of-cups-negativemeaning#."
   ],
   "king-of-cups-value":[
@@ -1436,11 +1386,10 @@
     "Abusing spiritual authority",
     "Using emotional or spiritual leverage to exercise unhealthy control over others"
   ],
-  "ace-of-swords":[
-    "Ace of Swords, representing #ace-of-swords-value#. #ace-of-swords-positivemeaning#.",
-    "Ace of Swords, representing #ace-of-swords-value#. #ace-of-swords-positivemeaning#.",
-    "Ace of Swords, representing #ace-of-swords-value#. #ace-of-swords-positivemeaning#.",
-    "Ace of Swords, representing #ace-of-swords-value#. #ace-of-swords-positivemeaning#.",
+  "ace-of-swords-positive":[
+    "Ace of Swords, representing #ace-of-swords-value#. #ace-of-swords-positivemeaning#."
+  ],
+  "ace-of-swords-negative":[
     "Ace of Swords, reversed, representing #ace-of-swords-value#. #ace-of-swords-negativemeaning#."
   ],
   "ace-of-swords-value":[
@@ -1466,11 +1415,10 @@
     "Confusing snap judgments with quick thinking",
     "Making decisions without thinking through consequences"
   ],
-  "two-of-swords":[
-    "Two of Swords, representing #two-of-swords-value#. #two-of-swords-positivemeaning#.",
-    "Two of Swords, representing #two-of-swords-value#. #two-of-swords-positivemeaning#.",
-    "Two of Swords, representing #two-of-swords-value#. #two-of-swords-positivemeaning#.",
-    "Two of Swords, representing #two-of-swords-value#. #two-of-swords-positivemeaning#.",
+  "two-of-swords-positive":[
+    "Two of Swords, representing #two-of-swords-value#. #two-of-swords-positivemeaning#."
+  ],
+  "two-of-swords-negative":[
     "Two of Swords, reversed, representing #two-of-swords-value#. #two-of-swords-negativemeaning#."
   ],
   "two-of-swords-value":[
@@ -1494,11 +1442,10 @@
     "Putting off a decision because you're afraid to face the consequences",
     "Preventing others from getting the information they need to make good decisions"
   ],
-  "three-of-swords":[
-    "Three of Swords, representing #three-of-swords-value#. #three-of-swords-positivemeaning#.",
-    "Three of Swords, representing #three-of-swords-value#. #three-of-swords-positivemeaning#.",
-    "Three of Swords, representing #three-of-swords-value#. #three-of-swords-positivemeaning#.",
-    "Three of Swords, representing #three-of-swords-value#. #three-of-swords-positivemeaning#.",
+  "three-of-swords-positive":[
+    "Three of Swords, representing #three-of-swords-value#. #three-of-swords-positivemeaning#."
+  ],
+  "three-of-swords-negative":[
     "Three of Swords, reversed, representing #three-of-swords-value#. #three-of-swords-negativemeaning#."
   ],
   "three-of-swords-value":[
@@ -1522,11 +1469,10 @@
     "Holding yourself to an unrealistic standard of excellence",
     "Wearing your heart on your sleeve while carrying a chip on your shoulder"
   ],
-  "four-of-swords":[
-    "Four of Swords, representing #four-of-swords-value#. #four-of-swords-positivemeaning#.",
-    "Four of Swords, representing #four-of-swords-value#. #four-of-swords-positivemeaning#.",
-    "Four of Swords, representing #four-of-swords-value#. #four-of-swords-positivemeaning#.",
-    "Four of Swords, representing #four-of-swords-value#. #four-of-swords-positivemeaning#.",
+  "four-of-swords-positive":[
+    "Four of Swords, representing #four-of-swords-value#. #four-of-swords-positivemeaning#."
+  ],
+  "four-of-swords-negative":[
     "Four of Swords, reversed, representing #four-of-swords-value#. #four-of-swords-negativemeaning#."
   ],
   "four-of-swords-value":[
@@ -1548,11 +1494,10 @@
     "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
     "Allowing chaos and whimsy to dominate your thoughts"
   ],
-  "five-of-swords":[
-    "Five of Swords, representing #five-of-swords-value#. #five-of-swords-positivemeaning#.",
-    "Five of Swords, representing #five-of-swords-value#. #five-of-swords-positivemeaning#.",
-    "Five of Swords, representing #five-of-swords-value#. #five-of-swords-positivemeaning#.",
-    "Five of Swords, representing #five-of-swords-value#. #five-of-swords-positivemeaning#.",
+  "five-of-swords-positive":[
+    "Five of Swords, representing #five-of-swords-value#. #five-of-swords-positivemeaning#."
+  ],
+  "five-of-swords-negative":[
     "Five of Swords, reversed, representing #five-of-swords-value#. #five-of-swords-negativemeaning#."
   ],
   "five-of-swords-value":[
@@ -1579,11 +1524,10 @@
     "Looking out for yourself while allowing harm to come to others",
     "Gloating over victory"
   ],
-  "six-of-swords":[
-    "Six of Swords, representing #six-of-swords-value#. #six-of-swords-positivemeaning#.",
-    "Six of Swords, representing #six-of-swords-value#. #six-of-swords-positivemeaning#.",
-    "Six of Swords, representing #six-of-swords-value#. #six-of-swords-positivemeaning#.",
-    "Six of Swords, representing #six-of-swords-value#. #six-of-swords-positivemeaning#.",
+  "six-of-swords-positive":[
+    "Six of Swords, representing #six-of-swords-value#. #six-of-swords-positivemeaning#."
+  ],
+  "six-of-swords-negative":[
     "Six of Swords, reversed, representing #six-of-swords-value#. #six-of-swords-negativemeaning#."
   ],
   "six-of-swords-value":[
@@ -1608,11 +1552,10 @@
     "Applying scientific criteria to matters of faith, or confusing faith with science",
     "Believing the whole world should be like your small corner of it"
   ],
-  "seven-of-swords":[
-    "Seven of Swords, representing #seven-of-swords-value#. #seven-of-swords-positivemeaning#.",
-    "Seven of Swords, representing #seven-of-swords-value#. #seven-of-swords-positivemeaning#.",
-    "Seven of Swords, representing #seven-of-swords-value#. #seven-of-swords-positivemeaning#.",
-    "Seven of Swords, representing #seven-of-swords-value#. #seven-of-swords-positivemeaning#.",
+  "seven-of-swords-positive":[
+    "Seven of Swords, representing #seven-of-swords-value#. #seven-of-swords-positivemeaning#."
+  ],
+  "seven-of-swords-negative":[
     "Seven of Swords, reversed, representing #seven-of-swords-value#. #seven-of-swords-negativemeaning#."
   ],
   "seven-of-swords-value":[
@@ -1635,11 +1578,10 @@
     "Justifying wicked behavior by focusing on the wickedness of others",
     "Failing to examine your own motives and prejudices"
   ],
-  "eight-of-swords":[
-    "Eight of Swords, representing #eight-of-swords-value#. #eight-of-swords-positivemeaning#.",
-    "Eight of Swords, representing #eight-of-swords-value#. #eight-of-swords-positivemeaning#.",
-    "Eight of Swords, representing #eight-of-swords-value#. #eight-of-swords-positivemeaning#.",
-    "Eight of Swords, representing #eight-of-swords-value#. #eight-of-swords-positivemeaning#.",
+  "eight-of-swords-positive":[
+    "Eight of Swords, representing #eight-of-swords-value#. #eight-of-swords-positivemeaning#."
+  ],
+  "eight-of-swords-negative":[
     "Eight of Swords, reversed, representing #eight-of-swords-value#. #eight-of-swords-negativemeaning#."
   ],
   "eight-of-swords-value":[
@@ -1667,11 +1609,10 @@
     "Having very few options",
     "Failing to look for a way out"
   ],
-  "nine-of-swords":[
-    "Nine of Swords, representing #nine-of-swords-value#. #nine-of-swords-positivemeaning#.",
-    "Nine of Swords, representing #nine-of-swords-value#. #nine-of-swords-positivemeaning#.",
-    "Nine of Swords, representing #nine-of-swords-value#. #nine-of-swords-positivemeaning#.",
-    "Nine of Swords, representing #nine-of-swords-value#. #nine-of-swords-positivemeaning#.",
+  "nine-of-swords-positive":[
+    "Nine of Swords, representing #nine-of-swords-value#. #nine-of-swords-positivemeaning#."
+  ],
+  "nine-of-swords-negative":[
     "Nine of Swords, reversed, representing #nine-of-swords-value#. #nine-of-swords-negativemeaning#."
   ],
   "nine-of-swords-value":[
@@ -1698,11 +1639,10 @@
     "Ruining your ability to appreciate the present by dwelling on the past",
     "Debating irreversible decisions"
   ],
-  "ten-of-swords":[
-    "Ten of Swords, representing #ten-of-swords-value#. #ten-of-swords-positivemeaning#.",
-    "Ten of Swords, representing #ten-of-swords-value#. #ten-of-swords-positivemeaning#.",
-    "Ten of Swords, representing #ten-of-swords-value#. #ten-of-swords-positivemeaning#.",
-    "Ten of Swords, representing #ten-of-swords-value#. #ten-of-swords-positivemeaning#.",
+  "ten-of-swords-positive":[
+    "Ten of Swords, representing #ten-of-swords-value#. #ten-of-swords-positivemeaning#."
+  ],
+  "ten-of-swords-negative":[
     "Ten of Swords, reversed, representing #ten-of-swords-value#. #ten-of-swords-negativemeaning#."
   ],
   "ten-of-swords-value":[
@@ -1729,11 +1669,10 @@
     "Refusing to move from thought to action",
     "Deeply unhealthy thoughts"
   ],
-  "page-of-swords":[
-    "Page of Swords, representing #page-of-swords-value#. #page-of-swords-positivemeaning#.",
-    "Page of Swords, representing #page-of-swords-value#. #page-of-swords-positivemeaning#.",
-    "Page of Swords, representing #page-of-swords-value#. #page-of-swords-positivemeaning#.",
-    "Page of Swords, representing #page-of-swords-value#. #page-of-swords-positivemeaning#.",
+  "page-of-swords-positive":[
+    "Page of Swords, representing #page-of-swords-value#. #page-of-swords-positivemeaning#."
+  ],
+  "page-of-swords-negative":[
     "Page of Swords, reversed, representing #page-of-swords-value#. #page-of-swords-negativemeaning#."
   ],
   "page-of-swords-value":[
@@ -1759,11 +1698,10 @@
     "Considering only the evidence that supports conclusions you've already drawn",
     "Rejecting the wise counsel of experienced teachers"
   ],
-  "knight-of-swords":[
-    "Knight of Swords, representing #knight-of-swords-value#. #knight-of-swords-positivemeaning#.",
-    "Knight of Swords, representing #knight-of-swords-value#. #knight-of-swords-positivemeaning#.",
-    "Knight of Swords, representing #knight-of-swords-value#. #knight-of-swords-positivemeaning#.",
-    "Knight of Swords, representing #knight-of-swords-value#. #knight-of-swords-positivemeaning#.",
+  "knight-of-swords-positive":[
+    "Knight of Swords, representing #knight-of-swords-value#. #knight-of-swords-positivemeaning#."
+  ],
+  "knight-of-swords-negative":[
     "Knight of Swords, reversed, representing #knight-of-swords-value#. #knight-of-swords-negativemeaning#."
   ],
   "knight-of-swords-value":[
@@ -1793,11 +1731,10 @@
     "Going on a witch hunt",
     "Distorting evidence"
   ],
-  "queen-of-swords":[
-    "Queen of Swords, representing #queen-of-swords-value#. #queen-of-swords-positivemeaning#.",
-    "Queen of Swords, representing #queen-of-swords-value#. #queen-of-swords-positivemeaning#.",
-    "Queen of Swords, representing #queen-of-swords-value#. #queen-of-swords-positivemeaning#.",
-    "Queen of Swords, representing #queen-of-swords-value#. #queen-of-swords-positivemeaning#.",
+  "queen-of-swords-positive":[
+    "Queen of Swords, representing #queen-of-swords-value#. #queen-of-swords-positivemeaning#."
+  ],
+  "queen-of-swords-negative":[
     "Queen of Swords, reversed, representing #queen-of-swords-value#. #queen-of-swords-negativemeaning#."
   ],
   "queen-of-swords-value":[
@@ -1827,11 +1764,10 @@
     "Being disrespectful",
     "Failing to use the talent you've been given"
   ],
-  "king-of-swords":[
-    "King of Swords, representing #king-of-swords-value#. #king-of-swords-positivemeaning#.",
-    "King of Swords, representing #king-of-swords-value#. #king-of-swords-positivemeaning#.",
-    "King of Swords, representing #king-of-swords-value#. #king-of-swords-positivemeaning#.",
-    "King of Swords, representing #king-of-swords-value#. #king-of-swords-positivemeaning#.",
+  "king-of-swords-positive":[
+    "King of Swords, representing #king-of-swords-value#. #king-of-swords-positivemeaning#."
+  ],
+  "king-of-swords-negative":[
     "King of Swords, reversed, representing #king-of-swords-value#. #king-of-swords-negativemeaning#."
   ],
   "king-of-swords-value":[
@@ -1857,11 +1793,10 @@
     "Refusing to make choices that are in your own best interest",
     "Wishing in vain you could take back what's been said"
   ],
-  "ace-of-coins":[
-    "Ace of Coins, representing #ace-of-coins-value#. #ace-of-coins-positivemeaning#.",
-    "Ace of Coins, representing #ace-of-coins-value#. #ace-of-coins-positivemeaning#.",
-    "Ace of Coins, representing #ace-of-coins-value#. #ace-of-coins-positivemeaning#.",
-    "Ace of Coins, representing #ace-of-coins-value#. #ace-of-coins-positivemeaning#.",
+  "ace-of-coins-positive":[
+    "Ace of Coins, representing #ace-of-coins-value#. #ace-of-coins-positivemeaning#."
+  ],
+  "ace-of-coins-negative":[
     "Ace of Coins, reversed, representing #ace-of-coins-value#. #ace-of-coins-negativemeaning#."
   ],
   "ace-of-coins-value":[
@@ -1885,11 +1820,10 @@
     "Consuming blessings without expressing gratitude",
     "Taking what you want without concern for the needs of others"
   ],
-  "two-of-coins":[
-    "Two of Coins, representing #two-of-coins-value#. #two-of-coins-positivemeaning#.",
-    "Two of Coins, representing #two-of-coins-value#. #two-of-coins-positivemeaning#.",
-    "Two of Coins, representing #two-of-coins-value#. #two-of-coins-positivemeaning#.",
-    "Two of Coins, representing #two-of-coins-value#. #two-of-coins-positivemeaning#.",
+  "two-of-coins-positive":[
+    "Two of Coins, representing #two-of-coins-value#. #two-of-coins-positivemeaning#."
+  ],
+  "two-of-coins-negative":[
     "Two of Coins, reversed, representing #two-of-coins-value#. #two-of-coins-negativemeaning#."
   ],
   "two-of-coins-value":[
@@ -1914,11 +1848,10 @@
     "Breaking your budget with unnecessary expenses",
     "Engaging in behavior with no regard for how your body or bankbook will be impacted"
   ],
-  "three-of-coins":[
-    "Three of Coins, representing #three-of-coins-value#. #three-of-coins-positivemeaning#.",
-    "Three of Coins, representing #three-of-coins-value#. #three-of-coins-positivemeaning#.",
-    "Three of Coins, representing #three-of-coins-value#. #three-of-coins-positivemeaning#.",
-    "Three of Coins, representing #three-of-coins-value#. #three-of-coins-positivemeaning#.",
+  "three-of-coins-positive":[
+    "Three of Coins, representing #three-of-coins-value#. #three-of-coins-positivemeaning#."
+  ],
+  "three-of-coins-negative":[
     "Three of Coins, reversed, representing #three-of-coins-value#. #three-of-coins-negativemeaning#."
   ],
   "three-of-coins-value":[
@@ -1944,11 +1877,10 @@
     "Refusing to do your part",
     "Failing to abide by a clearly-outlined agreement with yourself or others"
   ],
-  "four-of-coins":[
-    "Four of Coins, representing #four-of-coins-value#. #four-of-coins-positivemeaning#.",
-    "Four of Coins, representing #four-of-coins-value#. #four-of-coins-positivemeaning#.",
-    "Four of Coins, representing #four-of-coins-value#. #four-of-coins-positivemeaning#.",
-    "Four of Coins, representing #four-of-coins-value#. #four-of-coins-positivemeaning#.",
+  "four-of-coins-positive":[
+    "Four of Coins, representing #four-of-coins-value#. #four-of-coins-positivemeaning#."
+  ],
+  "four-of-coins-negative":[
     "Four of Coins, reversed, representing #four-of-coins-value#. #four-of-coins-negativemeaning#."
   ],
   "four-of-coins-value":[
@@ -1974,11 +1906,10 @@
     "Spending a dollar to save a penny",
     "Failing to be a good manager of the blessings you've been given"
   ],
-  "five-of-coins":[
-    "Five of Coins, representing #five-of-coins-value#. #five-of-coins-positivemeaning#.",
-    "Five of Coins, representing #five-of-coins-value#. #five-of-coins-positivemeaning#.",
-    "Five of Coins, representing #five-of-coins-value#. #five-of-coins-positivemeaning#.",
-    "Five of Coins, representing #five-of-coins-value#. #five-of-coins-positivemeaning#.",
+  "five-of-coins-positive":[
+    "Five of Coins, representing #five-of-coins-value#. #five-of-coins-positivemeaning#."
+  ],
+  "five-of-coins-negative":[
     "Five of Coins, reversed, representing #five-of-coins-value#. #five-of-coins-negativemeaning#."
   ],
   "five-of-coins-value":[
@@ -2004,11 +1935,10 @@
     "Turning down opportunities to improve your health or finances",
     "Wallowing in misery"
   ],
-  "six-of-coins":[
-    "Six of Coins, representing #six-of-coins-value#. #six-of-coins-positivemeaning#.",
-    "Six of Coins, representing #six-of-coins-value#. #six-of-coins-positivemeaning#.",
-    "Six of Coins, representing #six-of-coins-value#. #six-of-coins-positivemeaning#.",
-    "Six of Coins, representing #six-of-coins-value#. #six-of-coins-positivemeaning#.",
+  "six-of-coins-positive":[
+    "Six of Coins, representing #six-of-coins-value#. #six-of-coins-positivemeaning#."
+  ],
+  "six-of-coins-negative":[
     "Six of Coins, reversed, representing #six-of-coins-value#. #six-of-coins-negativemeaning#."
   ],
   "six-of-coins-value":[
@@ -2034,11 +1964,10 @@
     "Failing to do your part in a group effort",
     "Ignoring obligations and commitments"
   ],
-  "seven-of-coins":[
-    "Seven of Coins, representing #seven-of-coins-value#. #seven-of-coins-positivemeaning#.",
-    "Seven of Coins, representing #seven-of-coins-value#. #seven-of-coins-positivemeaning#.",
-    "Seven of Coins, representing #seven-of-coins-value#. #seven-of-coins-positivemeaning#.",
-    "Seven of Coins, representing #seven-of-coins-value#. #seven-of-coins-positivemeaning#.",
+  "seven-of-coins-positive":[
+    "Seven of Coins, representing #seven-of-coins-value#. #seven-of-coins-positivemeaning#."
+  ],
+  "seven-of-coins-negative":[
     "Seven of Coins, reversed, representing #seven-of-coins-value#. #seven-of-coins-negativemeaning#."
   ],
   "seven-of-coins-value":[
@@ -2063,11 +1992,10 @@
     "Holding others to inappropriate standards",
     "Refusing to take part in a project, then whining about the quality of the outcome"
   ],
-  "eight-of-coins":[
-    "Eight of Coins, representing #eight-of-coins-value#. #eight-of-coins-positivemeaning#.",
-    "Eight of Coins, representing #eight-of-coins-value#. #eight-of-coins-positivemeaning#.",
-    "Eight of Coins, representing #eight-of-coins-value#. #eight-of-coins-positivemeaning#.",
-    "Eight of Coins, representing #eight-of-coins-value#. #eight-of-coins-positivemeaning#.",
+  "eight-of-coins-positive":[
+    "Eight of Coins, representing #eight-of-coins-value#. #eight-of-coins-positivemeaning#."
+  ],
+  "eight-of-coins-negative":[
     "Eight of Coins, reversed, representing #eight-of-coins-value#. #eight-of-coins-negativemeaning#."
   ],
   "eight-of-coins-value":[
@@ -2094,11 +2022,10 @@
     "Rushing through your work",
     "Rejecting opportunities to learn more about your craft"
   ],
-  "nine-of-coins":[
-    "Nine of Coins, representing #nine-of-coins-value#. #nine-of-coins-positivemeaning#.",
-    "Nine of Coins, representing #nine-of-coins-value#. #nine-of-coins-positivemeaning#.",
-    "Nine of Coins, representing #nine-of-coins-value#. #nine-of-coins-positivemeaning#.",
-    "Nine of Coins, representing #nine-of-coins-value#. #nine-of-coins-positivemeaning#.",
+  "nine-of-coins-positive":[
+    "Nine of Coins, representing #nine-of-coins-value#. #nine-of-coins-positivemeaning#."
+  ],
+  "nine-of-coins-negative":[
     "Nine of Coins, reversed, representing #nine-of-coins-value#. #nine-of-coins-negativemeaning#."
   ],
   "nine-of-coins-value":[
@@ -2122,11 +2049,10 @@
     "Refusing to dedicate adequate time or attention when learning about something or someone new",
     "Always craving more"
   ],
-  "ten-of-coins":[
-    "Ten of Coins, representing #ten-of-coins-value#. #ten-of-coins-positivemeaning#.",
-    "Ten of Coins, representing #ten-of-coins-value#. #ten-of-coins-positivemeaning#.",
-    "Ten of Coins, representing #ten-of-coins-value#. #ten-of-coins-positivemeaning#.",
-    "Ten of Coins, representing #ten-of-coins-value#. #ten-of-coins-positivemeaning#.",
+  "ten-of-coins-positive":[
+    "Ten of Coins, representing #ten-of-coins-value#. #ten-of-coins-positivemeaning#."
+  ],
+  "ten-of-coins-negative":[
     "Ten of Coins, reversed, representing #ten-of-coins-value#. #ten-of-coins-negativemeaning#."
   ],
   "ten-of-coins-value":[
@@ -2150,11 +2076,10 @@
     "Obsessing on matters of weight, health, or finance",
     "Always asking, \"What's in it for me?\""
   ],
-  "page-of-coins":[
-    "Page of Coins, representing #page-of-coins-value#. #page-of-coins-positivemeaning#.",
-    "Page of Coins, representing #page-of-coins-value#. #page-of-coins-positivemeaning#.",
-    "Page of Coins, representing #page-of-coins-value#. #page-of-coins-positivemeaning#.",
-    "Page of Coins, representing #page-of-coins-value#. #page-of-coins-positivemeaning#.",
+  "page-of-coins-positive":[
+    "Page of Coins, representing #page-of-coins-value#. #page-of-coins-positivemeaning#."
+  ],
+  "page-of-coins-negative":[
     "Page of Coins, reversed, representing #page-of-coins-value#. #page-of-coins-negativemeaning#."
   ],
   "page-of-coins-value":[
@@ -2180,11 +2105,10 @@
     "Possessing immature attitudes toward sex and sexuality",
     "Using wealth or beauty as an excuse for not having to learn and grow"
   ],
-  "knight-of-coins":[
-    "Knight of Coins, representing #knight-of-coins-value#. #knight-of-coins-positivemeaning#.",
-    "Knight of Coins, representing #knight-of-coins-value#. #knight-of-coins-positivemeaning#.",
-    "Knight of Coins, representing #knight-of-coins-value#. #knight-of-coins-positivemeaning#.",
-    "Knight of Coins, representing #knight-of-coins-value#. #knight-of-coins-positivemeaning#.",
+  "knight-of-coins-positive":[
+    "Knight of Coins, representing #knight-of-coins-value#. #knight-of-coins-positivemeaning#."
+  ],
+  "knight-of-coins-negative":[
     "Knight of Coins, reversed, representing #knight-of-coins-value#. #knight-of-coins-negativemeaning#."
   ],
   "knight-of-coins-value":[
@@ -2212,11 +2136,10 @@
     "Perpetually chasing after some new bauble",
     "Copying another's work and claiming it as your own"
   ],
-  "queen-of-coins":[
-    "Queen of Coins, representing #queen-of-coins-value#. #queen-of-coins-positivemeaning#.",
-    "Queen of Coins, representing #queen-of-coins-value#. #queen-of-coins-positivemeaning#.",
-    "Queen of Coins, representing #queen-of-coins-value#. #queen-of-coins-positivemeaning#.",
-    "Queen of Coins, representing #queen-of-coins-value#. #queen-of-coins-positivemeaning#.",
+  "queen-of-coins-positive":[
+    "Queen of Coins, representing #queen-of-coins-value#. #queen-of-coins-positivemeaning#."
+  ],
+  "queen-of-coins-negative":[
     "Queen of Coins, reversed, representing #queen-of-coins-value#. #queen-of-coins-negativemeaning#."
   ],
   "queen-of-coins-value":[
@@ -2241,11 +2164,10 @@
     "Providing physical comfort without providing for emotional needs",
     "Allowing a feeling of entitlement to distort your gratitude for what you're given"
   ],
-  "king-of-coins":[
-    "King of Coins, representing #king-of-coins-value#. #king-of-coins-positivemeaning#.",
-    "King of Coins, representing #king-of-coins-value#. #king-of-coins-positivemeaning#.",
-    "King of Coins, representing #king-of-coins-value#. #king-of-coins-positivemeaning#.",
-    "King of Coins, representing #king-of-coins-value#. #king-of-coins-positivemeaning#.",
+  "king-of-coins-positive":[
+    "King of Coins, representing #king-of-coins-value#. #king-of-coins-positivemeaning#."
+  ],
+  "king-of-coins-negative":[
     "King of Coins, reversed, representing #king-of-coins-value#. #king-of-coins-negativemeaning#."
   ],
   "king-of-coins-value":[
@@ -2273,83 +2195,170 @@
   ],
   "origin":"#card#",
   "card":[
-    "#the-fool#",
-    "#the-magician#",
-    "#the-high-priestess#",
-    "#the-empress#",
-    "#the-emperor#",
-    "#the-hierophant#",
-    "#the-lovers#",
-    "#the-chariot#",
-    "#strength#",
-    "#the-hermit#",
-    "#the-wheel#",
-    "#justice#",
-    "#the-hanged-man#",
-    "#death#",
-    "#temperance#",
-    "#the-devil#",
-    "#the-tower#",
-    "#the-star#",
-    "#the-moon#",
-    "#the-sun#",
-    "#judgement#",
-    "#the-world#",
-    "#ace-of-wands#",
-    "#two-of-wands#",
-    "#three-of-wands#",
-    "#four-of-wands#",
-    "#five-of-wands#",
-    "#six-of-wands#",
-    "#seven-of-wands#",
-    "#eight-of-wands#",
-    "#nine-of-wands#",
-    "#ten-of-wands#",
-    "#page-of-wands#",
-    "#knight-of-wands#",
-    "#queen-of-wands#",
-    "#king-of-wands#",
-    "#ace-of-cups#",
-    "#two-of-cups#",
-    "#three-of-cups#",
-    "#four-of-cups#",
-    "#five-of-cups#",
-    "#six-of-cups#",
-    "#seven-of-cups#",
-    "#eight-of-cups#",
-    "#nine-of-cups#",
-    "#ten-of-cups#",
-    "#page-of-cups#",
-    "#knight-of-cups#",
-    "#queen-of-cups#",
-    "#king-of-cups#",
-    "#ace-of-swords#",
-    "#two-of-swords#",
-    "#three-of-swords#",
-    "#four-of-swords#",
-    "#five-of-swords#",
-    "#six-of-swords#",
-    "#seven-of-swords#",
-    "#eight-of-swords#",
-    "#nine-of-swords#",
-    "#ten-of-swords#",
-    "#page-of-swords#",
-    "#knight-of-swords#",
-    "#queen-of-swords#",
-    "#king-of-swords#",
-    "#ace-of-coins#",
-    "#two-of-coins#",
-    "#three-of-coins#",
-    "#four-of-coins#",
-    "#five-of-coins#",
-    "#six-of-coins#",
-    "#seven-of-coins#",
-    "#eight-of-coins#",
-    "#nine-of-coins#",
-    "#ten-of-coins#",
-    "#page-of-coins#",
-    "#knight-of-coins#",
-    "#queen-of-coins#",
-    "#king-of-coins#"
+    "#positive-card#",
+    "#positive-card#",
+    "#positive-card#",
+    "#positive-card#",
+    "#negative-card#"
+  ],
+  "positive-card":[
+    "#the-fool-positive#",
+    "#the-magician-positive#",
+    "#the-high-priestess-positive#",
+    "#the-empress-positive#",
+    "#the-emperor-positive#",
+    "#the-hierophant-positive#",
+    "#the-lovers-positive#",
+    "#the-chariot-positive#",
+    "#strength-positive#",
+    "#the-hermit-positive#",
+    "#the-wheel-positive#",
+    "#justice-positive#",
+    "#the-hanged-man-positive#",
+    "#death-positive#",
+    "#temperance-positive#",
+    "#the-devil-positive#",
+    "#the-tower-positive#",
+    "#the-star-positive#",
+    "#the-moon-positive#",
+    "#the-sun-positive#",
+    "#judgement-positive#",
+    "#the-world-positive#",
+    "#ace-of-wands-positive#",
+    "#two-of-wands-positive#",
+    "#three-of-wands-positive#",
+    "#four-of-wands-positive#",
+    "#five-of-wands-positive#",
+    "#six-of-wands-positive#",
+    "#seven-of-wands-positive#",
+    "#eight-of-wands-positive#",
+    "#nine-of-wands-positive#",
+    "#ten-of-wands-positive#",
+    "#page-of-wands-positive#",
+    "#knight-of-wands-positive#",
+    "#queen-of-wands-positive#",
+    "#king-of-wands-positive#",
+    "#ace-of-cups-positive#",
+    "#two-of-cups-positive#",
+    "#three-of-cups-positive#",
+    "#four-of-cups-positive#",
+    "#five-of-cups-positive#",
+    "#six-of-cups-positive#",
+    "#seven-of-cups-positive#",
+    "#eight-of-cups-positive#",
+    "#nine-of-cups-positive#",
+    "#ten-of-cups-positive#",
+    "#page-of-cups-positive#",
+    "#knight-of-cups-positive#",
+    "#queen-of-cups-positive#",
+    "#king-of-cups-positive#",
+    "#ace-of-swords-positive#",
+    "#two-of-swords-positive#",
+    "#three-of-swords-positive#",
+    "#four-of-swords-positive#",
+    "#five-of-swords-positive#",
+    "#six-of-swords-positive#",
+    "#seven-of-swords-positive#",
+    "#eight-of-swords-positive#",
+    "#nine-of-swords-positive#",
+    "#ten-of-swords-positive#",
+    "#page-of-swords-positive#",
+    "#knight-of-swords-positive#",
+    "#queen-of-swords-positive#",
+    "#king-of-swords-positive#",
+    "#ace-of-coins-positive#",
+    "#two-of-coins-positive#",
+    "#three-of-coins-positive#",
+    "#four-of-coins-positive#",
+    "#five-of-coins-positive#",
+    "#six-of-coins-positive#",
+    "#seven-of-coins-positive#",
+    "#eight-of-coins-positive#",
+    "#nine-of-coins-positive#",
+    "#ten-of-coins-positive#",
+    "#page-of-coins-positive#",
+    "#knight-of-coins-positive#",
+    "#queen-of-coins-positive#",
+    "#king-of-coins-positive#"
+  ],
+  "negative-card":[
+    "#the-fool-negative#",
+    "#the-magician-negative#",
+    "#the-high-priestess-negative#",
+    "#the-empress-negative#",
+    "#the-emperor-negative#",
+    "#the-hierophant-negative#",
+    "#the-lovers-negative#",
+    "#the-chariot-negative#",
+    "#strength-negative#",
+    "#the-hermit-negative#",
+    "#the-wheel-negative#",
+    "#justice-negative#",
+    "#the-hanged-man-negative#",
+    "#death-negative#",
+    "#temperance-negative#",
+    "#the-devil-negative#",
+    "#the-tower-negative#",
+    "#the-star-negative#",
+    "#the-moon-negative#",
+    "#the-sun-negative#",
+    "#judgement-negative#",
+    "#the-world-negative#",
+    "#ace-of-wands-negative#",
+    "#two-of-wands-negative#",
+    "#three-of-wands-negative#",
+    "#four-of-wands-negative#",
+    "#five-of-wands-negative#",
+    "#six-of-wands-negative#",
+    "#seven-of-wands-negative#",
+    "#eight-of-wands-negative#",
+    "#nine-of-wands-negative#",
+    "#ten-of-wands-negative#",
+    "#page-of-wands-negative#",
+    "#knight-of-wands-negative#",
+    "#queen-of-wands-negative#",
+    "#king-of-wands-negative#",
+    "#ace-of-cups-negative#",
+    "#two-of-cups-negative#",
+    "#three-of-cups-negative#",
+    "#four-of-cups-negative#",
+    "#five-of-cups-negative#",
+    "#six-of-cups-negative#",
+    "#seven-of-cups-negative#",
+    "#eight-of-cups-negative#",
+    "#nine-of-cups-negative#",
+    "#ten-of-cups-negative#",
+    "#page-of-cups-negative#",
+    "#knight-of-cups-negative#",
+    "#queen-of-cups-negative#",
+    "#king-of-cups-negative#",
+    "#ace-of-swords-negative#",
+    "#two-of-swords-negative#",
+    "#three-of-swords-negative#",
+    "#four-of-swords-negative#",
+    "#five-of-swords-negative#",
+    "#six-of-swords-negative#",
+    "#seven-of-swords-negative#",
+    "#eight-of-swords-negative#",
+    "#nine-of-swords-negative#",
+    "#ten-of-swords-negative#",
+    "#page-of-swords-negative#",
+    "#knight-of-swords-negative#",
+    "#queen-of-swords-negative#",
+    "#king-of-swords-negative#",
+    "#ace-of-coins-negative#",
+    "#two-of-coins-negative#",
+    "#three-of-coins-negative#",
+    "#four-of-coins-negative#",
+    "#five-of-coins-negative#",
+    "#six-of-coins-negative#",
+    "#seven-of-coins-negative#",
+    "#eight-of-coins-negative#",
+    "#nine-of-coins-negative#",
+    "#ten-of-coins-negative#",
+    "#page-of-coins-negative#",
+    "#knight-of-coins-negative#",
+    "#queen-of-coins-negative#",
+    "#king-of-coins-negative#"
   ]
 }
